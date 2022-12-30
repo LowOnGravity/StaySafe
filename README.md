@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # StaySafe
- An advanced repo on avoiding your account getting stolen.
+ An advanced repo on avoiding your account getting stolen by skidding children.
  
  
  This particular script bellow takes your auth-session and sends it to discord webhook through requests.
