@@ -4,7 +4,7 @@
  An advanced repo on avoiding your account getting stolen by skidding children.
  
  
- This particular script bellow takes your auth-session and sends it to discord webhook through requests.
+ This particular script below takes your auth-session and sends it to discord webhook through requests.
  
  # 
  
