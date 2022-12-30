@@ -94,29 +94,6 @@ Use [Webhook Deleter Tool](https://github.com/venaxyt/Discord-WebHook-Deleter) m
  ![image](https://user-images.githubusercontent.com/96681438/210078160-70b924e1-22e3-42ab-805e-027ff9c06d8c.png)
 
  
- ``` Method #2: ```
- Use the request bellow to get rid of the webhook.
- 
- ![image](https://user-images.githubusercontent.com/96681438/210078556-1aaba82c-0dc8-4470-a841-c7b57472242f.png)
-
- 
- ```js
-   let webhookURL = "PUT_WEBHOOK_URL_HERE";  
-
-  await fetch(webhookURL, {
-    "method": "DELETE",
-  });
- 
- ```
- 
- Head to discord.com website and open  console using developer tools and paste this script with your webhook.
- 
- 
- ![image](https://user-images.githubusercontent.com/96681438/210078428-b5fbbc6b-1673-4312-8f0f-ff8571c6b549.png)
-
-Click enter, and it should be successful. 
-
-![image](https://user-images.githubusercontent.com/96681438/210078598-7c2d1243-4269-4c31-a23a-e7f3a3aea49b.png)
 
 
  </div>
