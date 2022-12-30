@@ -1,0 +1,2 @@
+# StaySafe
+Made for fools
