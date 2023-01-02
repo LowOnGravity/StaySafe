@@ -21,5 +21,16 @@ To be certain that you have better chances of getting your account back through 
 
 # Examples
 
+![image](https://user-images.githubusercontent.com/96681438/210271210-5f1cf755-4ca2-4aac-8df9-770813153722.png)
 
+ ***Save Transaction ID, it's date and method.*** 
+ 
+ $ID | #Day | Prepaid Card
 
+ 
+ ![image](https://user-images.githubusercontent.com/96681438/210271278-99794133-ab1e-4cb9-b223-1dc81678f2a8.png)
+
+ Make a list of games that you're an owner of - for the account security I cannot show whole page.
+ 
+ 
+</div>
