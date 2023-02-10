@@ -1,11 +1,20 @@
 <div align="center"> 
 
+# Other Useful Repositories
+
+> [Stay safe for executable files](https://github.com/StaticPerson/StaySafe/tree/main/executables)
+
+> [How to make sure your chances of account recovery are higher?](https://github.com/StaticPerson/StaySafe/tree/main/Account%20Recovery%20Insurance)
+
+> [Silly Session Tricks](https://github.com/StaticPerson/StaySafe/tree/main/Session%20Tricks)
+
+
 # StaySafe
  An advanced repo on avoiding your account getting stolen by skidding children.
    
    >  This repo focuses on Script that require Extension to execute.
 
-   > For a version focused on executable files, head [to this repo](https://github.com/StaticPerson/StaySafe/tree/main/executables)
+
  
  
  This particular script below takes your auth-session and sends it to discord webhook through requests.
