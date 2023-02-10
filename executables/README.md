@@ -2,17 +2,17 @@
 
 [How to find webhook in a python executable?](https://github.com/StaticPerson/StaySafe/tree/main/executables/python%20executables)
 
+
+
 #
 
-
-Tools used:
-
   
-  * [.NET Webhook Finder](https://github.com/DeLuxe-1337/.NET-Webhook-Finder)
-  
-  * [Webhook Remover](https://github.com/venaxyt/Discord-WebHook-Deleter)
-  
-  * [DnSpy](https://github.com/dnSpy/dnSpy)
+  > [.NET Webhook Finder](https://github.com/DeLuxe-1337/.NET-Webhook-Finder)
+  > 
+  > [Webhook Remover](https://github.com/venaxyt/Discord-WebHook-Deleter)
+  > 
+  > [DnSpy](https://github.com/dnSpy/dnSpy)
+  #
 
   My todays target will be a software pretending to be a "XPCheat" 
   
