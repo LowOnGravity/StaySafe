@@ -1,6 +1,9 @@
 <div align="center"> 
 
-For this little experiment I will be using simple tools such as:
+[How to find webhook in a python executable?]()
+
+Tools used:
+
   
   * [.NET Webhook Finder](https://github.com/DeLuxe-1337/.NET-Webhook-Finder)
   
