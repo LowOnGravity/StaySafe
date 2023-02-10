@@ -1,6 +1,6 @@
 <div align="center"> 
 
-[How to find webhook in a python executable?]()
+[How to find webhook in a python executable?](https://github.com/StaticPerson/StaySafe/tree/main/executables/python%20executables)
 
 #
 
