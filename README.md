@@ -8,6 +8,7 @@
 
 > [Silly Session Tricks](https://github.com/StaticPerson/StaySafe/tree/main/Session%20Tricks)
 
+ > [How do I delete a certain webhook?]()
 
 # StaySafe
  An advanced repo on avoiding your account getting stolen by skidding children.
@@ -93,20 +94,7 @@ the action of making something obscure, unclear, or unintelligible.
  ![image](https://user-images.githubusercontent.com/96681438/210077814-141d26fc-015c-4c37-9de8-ecb831ef4ab0.png)
 
 
-*Copy the Request URL*
+*Your discord webhook should be here, copy it and delete it for the safety of others.*
 
 ``https://discord.com/api/webhooks/ID$/$Token/``
 
-# Deleting the Webhook
-
-*For safety of other fools*
- 
-``` Method #1: ```
-Use [Webhook Deleter Tool](https://github.com/venaxyt/Discord-WebHook-Deleter) made in python. 
- 
- ![image](https://user-images.githubusercontent.com/96681438/210078160-70b924e1-22e3-42ab-805e-027ff9c06d8c.png)
-
- 
-
-
- </div>
