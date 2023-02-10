@@ -18,7 +18,8 @@ Tools used:
   
   > which is obviously just an stealer.
   >
- >  ![image](https://user-images.githubusercontent.com/96681438/218164824-f24a6c72-3880-4fe9-9f4e-151be6ce6f04.png)
+ >  ![image](https://user-images.githubusercontent.com/96681438/218167932-89e4e8e2-3668-4af5-9a9c-07123a86006c.png)
+
 
 
 
