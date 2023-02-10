@@ -14,7 +14,7 @@ Tools used:
   
   * [DnSpy](https://github.com/dnSpy/dnSpy)
 
-  My todays target will be a futile "XPCheat" by Scared
+  My todays target will be a software pretending to be a "XPCheat" 
   
   > which is obviously just an stealer.
   >
