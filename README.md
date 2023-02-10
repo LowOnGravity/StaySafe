@@ -2,6 +2,10 @@
 
 # StaySafe
  An advanced repo on avoiding your account getting stolen by skidding children.
+   
+   >  This repo focuses on Script that require Extension to execute.
+
+   > For a version focused on executable files, head [to this repo](https://github.com/StaticPerson/StaySafe/tree/main/executables)
  
  
  This particular script below takes your auth-session and sends it to discord webhook through requests.
